@@ -1,0 +1,21 @@
+.header-line{
+    display: flex;
+    /* logo to left side and links to right side*/    
+    justify-content: space-between; 
+}
+
+.header-links{
+    /* This will make header links to go
+    side by side */
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    padding-left: 16px;
+}
