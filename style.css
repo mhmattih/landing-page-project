@@ -19,3 +19,13 @@ ul {
 li{
     padding-left: 16px;
 }
+
+.header-content{
+    display: flex;
+}
+
+.header-image{
+    width: 300px;
+}
+
+
