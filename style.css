@@ -129,3 +129,27 @@ button{
     color: #1F2937;
     font-size: 36px;
 }
+
+/* Quote section below */
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color:#E5E7EB;
+    padding: 80px 400px;
+}
+
+.quote-text {
+    font-style: italic;
+}
+
+.quote-author {
+    font-weight: bold;
+    align-self: flex-end;
+    
+    color: #1F2937;
+    font-size: 28px;
+}
